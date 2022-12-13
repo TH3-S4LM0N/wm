@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Penrose
+Version=1.0
+Command=Custom Penrose Window Manager
+Exec=penrose-wm
+Type=Application
+DesktopNames=Penrose
